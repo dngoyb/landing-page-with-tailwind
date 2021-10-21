@@ -1,0 +1,23 @@
+{
+  "name": "landing-page-with-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build -i src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dngoyb/landing-page-with-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dngoyb/landing-page-with-tailwind/issues"
+  },
+  "homepage": "https://github.com/dngoyb/landing-page-with-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
